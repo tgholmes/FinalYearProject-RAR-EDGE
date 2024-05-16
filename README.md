@@ -39,4 +39,4 @@ I would like to thank my supervisor, Justin Read, for his continued support and 
 
 ## Contact
 
-If you would like to contact me further about this project and the technical details/context, I would be more than happy to chat. [LinkedIn](www.linkedin.com/in/tom-holmes-278826214)
+If you would like to contact me further about this project and the technical details/context, I would be more than happy to chat. www.linkedin.com/in/tom-holmes-278826214
